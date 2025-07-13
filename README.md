@@ -1,5 +1,5 @@
-# 🎮 Tic-Tac-Toe Game
-
+  # 🎮 Tic-Tac-Toe Game 
+  
 A simple and interactive Tic-Tac-Toe game built using **HTML**, **CSS**, and **JavaScript**. Challenge your friend or play solo in this classic 3x3 grid game designed with clean visuals and responsive layout.
 
 
@@ -12,7 +12,6 @@ A simple and interactive Tic-Tac-Toe game built using **HTML**, **CSS**, and **J
 - ✨ Turn indicator & endgame messages
 - 🔁 Reset game functionality
 
----
 
 ## 🛠️ Tech Stack
 
@@ -20,10 +19,8 @@ A simple and interactive Tic-Tac-Toe game built using **HTML**, **CSS**, and **J
 - CSS3
 - JavaScript 
 
----
 
-##
-🧩 How to Play
+## 🧩 How to Play
 
 1. Clone or download the repo.
 2. Open `index.html` in your browser.
